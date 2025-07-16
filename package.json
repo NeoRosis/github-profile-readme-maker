@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@heroicons/react": "^1.0.5",
-    "axios": "^0.27.2",
+    "axios": "^0.30.0",
     "crisp-sdk-web": "^1.0.22",
     "firebase": "^9.6.4",
     "markdown-it": "^12.3.2",
